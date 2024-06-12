@@ -14,8 +14,8 @@ const LoginPage: NextPage = () => {
 };
 
 export const metadata: Metadata = {
-  title: 'Login - _TITLE__',
-  description: '_DESCRIPTION_',
+  title: 'Login - Demo_',
+  description: 'Demo',
 };
 
 export default LoginPage;
